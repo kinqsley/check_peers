@@ -1,5 +1,5 @@
 # check_peers
-check and update working peers list in your node config file.
+check and update working peer list in your node-config.yaml file.
 
 # Install
 Download from release and put it in the same location where your node config file is located.
